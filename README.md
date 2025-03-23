@@ -12,4 +12,4 @@ Key Highlights:
 
 Objective: To enhance the understanding of customer behavior and transaction trends, ultimately improving business strategies and customer experience. Analysis Components: ✅ Transaction Dashboard: Focuses on transaction data analysis, identifying spending patterns and potential fraud. ✅ Customer Dashboard: Provides insights into customer behavior, preferences, and demographics for targeted strategies.
 
-I’m thrilled to apply my skills in data analysis and visualization to make data-driven decisions more accessible and impactful. Looking forward to connecting with fellow data enthusiasts and professionals!
+
